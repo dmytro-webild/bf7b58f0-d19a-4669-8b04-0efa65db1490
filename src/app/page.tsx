@@ -74,11 +74,11 @@ export default function LandingPage() {
       description="Откройте для себя красоту и долговечность природного камня для дизайна домов, ландшафта, строительства и облицовки. Мы предлагаем широкий ассортимент и быструю доставку."
       leftCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/plant-vases-background-zoom-calls_23-2149684464.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/plant-vases-background-zoom-calls_23-2149684464.jpg?_wi=1",
           imageAlt: "Luxurious marble kitchen countertop",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/delicious-cookie-tray-leaves-marble-background_114579-51601.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delicious-cookie-tray-leaves-marble-background_114579-51601.jpg?_wi=1",
           imageAlt: "Polished quartz countertop",
         },
         {
@@ -100,7 +100,7 @@ export default function LandingPage() {
       ]}
       rightCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/outdoors-abstract-shadow-daytime_23-2149080293.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/outdoors-abstract-shadow-daytime_23-2149080293.jpg?_wi=1",
           imageAlt: "Granite bathroom vanity top",
         },
         {
@@ -167,7 +167,7 @@ export default function LandingPage() {
               imageAlt: "Luxury kitchen with marble island",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/plant-vases-background-zoom-calls_23-2149684464.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/plant-vases-background-zoom-calls_23-2149684464.jpg?_wi=2",
           imageAlt: "exterior house with elegant natural stone facade",
         },
         {
@@ -184,7 +184,7 @@ export default function LandingPage() {
               imageAlt: "Outdoor patio with stone paving",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/outdoors-abstract-shadow-daytime_23-2149080293.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/outdoors-abstract-shadow-daytime_23-2149080293.jpg?_wi=2",
           imageAlt: "exterior house with elegant natural stone facade",
         },
         {
@@ -201,7 +201,7 @@ export default function LandingPage() {
               imageAlt: "Skilled mason carving stone",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/delicious-cookie-tray-leaves-marble-background_114579-51601.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/delicious-cookie-tray-leaves-marble-background_114579-51601.jpg?_wi=2",
           imageAlt: "exterior house with elegant natural stone facade",
         },
       ]}
