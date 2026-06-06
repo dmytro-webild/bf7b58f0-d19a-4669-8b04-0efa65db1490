@@ -49,9 +49,6 @@ export default function LandingPage() {
       brandName="Камни Всем"
       button={{
         text: "Заказать"}}
-      topBarButton={{
-        text: "89673528481",        href: "tel:89673528481"
-      }}
     />
   </div>
 
